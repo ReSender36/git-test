@@ -1,3 +1,4 @@
 print("Hello, World!") ;
 print("Hello everyone") ;
 print(123) ;
+scanf(8765635) ;
