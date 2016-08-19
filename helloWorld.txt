@@ -3,4 +3,6 @@ print("Hello everyone ;") ;
 print(123) ;
 scanf(8765635) ;
 char("A") ;
+print("hello my dear friend") ;
+list("еще одно важное изменение") ;
 select 'внезапные изменения' from bills
