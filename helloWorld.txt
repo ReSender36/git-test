@@ -1,5 +1,6 @@
-print("Hello, World!") ;
-print("Hello everyone") ;
+print("Hello, World! ;") ;
+print("Hello everyone ;") ;
 print(123) ;
 scanf(8765635) ;
 char("A") ;
+select 'внезапные изменения' from bills
